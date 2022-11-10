@@ -16,13 +16,14 @@
 }
 body{
     font-family:'Montserrat', sans-serif;
+    background-color: var(--colorCream);
 }
 button{
     cursor: pointer;
 }
 /* end global rules */
 .icon{
-    background-color: var(--colorCream);
+    
     padding: 2rem 1rem;
 }
 .container{
